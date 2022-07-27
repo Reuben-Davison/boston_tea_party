@@ -1,13 +1,13 @@
 # README
 
-# Purpose
+## Purpose
 
 The purpose of this repository is to showcase what a standard Take Home evaluation might look like. MVP is three endpoints. 
 
 
 ## Approach
 
-The approach I took with this project was one I would take on the job. MVP has been acheived and robustly tested. I did not include additonal endpoints as though this would have been easy, I was thinking from an on the job perspective. If a manager asked me a list of three endpoints I would want to return those three endpoints and their tests but that was that was it. I would not want to spend extra time creating extra end points or functionality just for the sake of it. I would rather begin working on a new ticket. 
+The approach I took with this project was one I would take on the job. MVP has been achieved and robustly tested. I did not include additonal endpoints as though this would have been easy, I was thinking from an on the job perspective. If a manager asked me a list of three endpoints I would want to return those three endpoints and their tests but that was it. I would not want to spend extra time creating extra end points or functionality just for the sake of it. I would rather begin working on a new ticket. 
 
 
 ## Setup 
