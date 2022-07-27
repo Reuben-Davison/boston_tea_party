@@ -9,6 +9,10 @@ The purpose of this repository is to showcase what a standard Take Home evaluati
 
 The approach I took with this project was one I would take on the job. MVP has been achieved and robustly tested. I did not include additonal endpoints as though this would have been easy, I was thinking from an on the job perspective. If a manager asked me a list of three endpoints I would want to return those three endpoints and their tests but that was it. I would not want to spend extra time creating extra end points or functionality just for the sake of it. I would rather begin working on a new ticket. 
 
+## Schema with stretch schema
+
+<img width="1175" alt="Screen Shot 2022-07-27 at 4 31 04 PM" src="https://user-images.githubusercontent.com/97201304/181383808-478a2a05-4035-4816-beb3-9f39253f4f22.png">
+
 
 ## Setup 
 
