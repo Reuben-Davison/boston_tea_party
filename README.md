@@ -28,7 +28,7 @@ The approach I took with this project was one I would take on the job. MVP has b
 Request: 
 
 ```
-POST api/v1/customer/:cust_id/subscription
+POST api/v1/customers/:cust_id/subscriptions
 
 body: {
   tea_name: "Earl Grey",
@@ -61,7 +61,7 @@ status: 201
 Request: 
 
 ```
-PATCH api/v1/customer/:cust_id/subscription/:id?status=cancelled
+PATCH api/v1/customers/:cust_id/subscriptions/:id?status=cancelled
 ```
 
 Response: 
@@ -89,7 +89,7 @@ status: 200
 Request: 
 
 ```
-GET api/v1/customer/:cust_id/subscriptions
+GET api/v1/customers/:cust_id/subscriptions
 ```
 
 Response: 
